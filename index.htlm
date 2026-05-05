@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jasa Dokumentasi Event Bandung</title>
+  <!-- Hubungkan ke file CSS terpisah -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Jasa Dokumentasi Event Bandung</h1>
+  <p>Foto & Video Profesional untuk Semua Acara</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#services">Layanan</a>
+  <a href="#portfolio">Portfolio</a>
+  <a href="#contact">Kontak</a>
+</nav>
+
+<section class="hero" id="home">
+  <h2>Abadikan Momen Terbaik Anda</h2>
+  <p>Kami siap mendokumentasikan event Anda dengan hasil berkualitas tinggi</p>
+</section>
+
+<section id="services">
+  <h2>Layanan Kami</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Dokumentasi Pernikahan</h3>
+      <p>Foto & video wedding cinematic berkualitas tinggi.</p>
+    </div>
+    <div class="card">
+      <h3>Event Corporate</h3>
+      <p>Seminar, gathering, dan acara perusahaan.</p>
+    </div>
+    <div class="card">
+      <h3>Konser & Festival</h3>
+      <p>Dokumentasi musik dan event besar.</p>
+    </div>
+  </div>
+</section>
+
+<section id="portfolio">
+  <h2>Portfolio</h2>
+  <p>Tambahkan galeri foto/video terbaik Anda di sini.</p>
+</section>
+
+<section id="contact">
+  <h2>Kontak</h2>
+  <p>WhatsApp: 08xxxxxxxxxx</p>
+  <p>Email: info@dokumentasibandung.com</p>
+</section>
+
+<footer>
+  <p>&copy; 2026 Jasa Dokumentasi Event Bandung</p>
+</footer>
+
+
+</body>
+</html>
