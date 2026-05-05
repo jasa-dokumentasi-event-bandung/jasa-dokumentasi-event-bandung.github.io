@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jasa-dokumentasi-event-bandung.github.io/sitemap.xml
