@@ -31,12 +31,13 @@ header p {
 nav {
   display: flex;
   justify-content: center;
-  gap: 30px;
+  gap: 20px;
   padding: 15px;
   background: rgba(255,255,255,0.05);
   backdrop-filter: blur(10px);
   position: sticky;
   top: 0;
+  flex-wrap: wrap;
 }
 
 nav a {
@@ -95,6 +96,7 @@ section h2 {
   font-size: 2rem;
 }
 
+/* ===== SERVICES ===== */
 .services {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -118,6 +120,44 @@ section h2 {
   color: #38bdf8;
 }
 
+/* ===== PRICING ===== */
+.pricing {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.price-card {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.price-card:hover {
+  transform: scale(1.05);
+}
+
+.price {
+  font-size: 1.8rem;
+  margin: 15px 0;
+  color: #38bdf8;
+}
+
+.price-card ul {
+  list-style: none;
+}
+
+.price-card li {
+  margin: 8px 0;
+}
+
+.highlight {
+  border: 2px solid #38bdf8;
+}
+
+/* ===== PORTFOLIO ===== */
 .portfolio-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -139,12 +179,38 @@ section h2 {
 .portfolio-grid img {
   width: 100%;
   border-radius: 10px;
+  transition: 0.3s;
 }
 
+.portfolio-grid img:hover {
+  transform: scale(1.05);
+}
+
+/* ===== TESTIMONI ===== */
+.testimoni {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.testi-card {
+  background: #1e293b;
+  padding: 25px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.testi-card p {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+/* ===== CONTACT ===== */
 .contact {
   text-align: center;
 }
 
+/* ===== FOOTER ===== */
 footer {
   text-align: center;
   padding: 20px;
@@ -154,3 +220,21 @@ footer {
   color: #64748b;
 }
 
+/* ===== FLOATING WHATSAPP ===== */
+.wa-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25D366;
+  color: white;
+  font-size: 22px;
+  padding: 15px 18px;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  transition: 0.3s;
+}
+
+.wa-float:hover {
+  transform: scale(1.1);
+}
