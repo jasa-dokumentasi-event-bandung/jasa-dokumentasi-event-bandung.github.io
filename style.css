@@ -1,0 +1,17 @@
+<!--
+===========================
+FILE CSS (style.css)
+===========================
+Salin kode di bawah ini ke file baru bernama style.css
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background: #111; color: white; padding: 20px; text-align: center; }
+nav { background: #333; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+section { padding: 40px; }
+.hero { background: url('hero.jpg') center/cover no-repeat; color: white; text-align: center; padding: 100px 20px; }
+.services { display: flex; flex-wrap: wrap; gap: 20px; }
+.card { border: 1px solid #ddd; padding: 20px; flex: 1; min-width: 250px; }
+footer { background: #111; color: white; text-align: center; padding: 20px; }
+
+-->
