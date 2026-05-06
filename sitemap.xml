@@ -1,39 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
   <url>
     <loc>https://jasa-dokumentasi-event-bandung.github.io/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <priority>1.0</priority>
   </url>
 
+  <!-- Money Page -->
   <url>
-    <loc>https://jasa-dokumentasi-event-bandung.github.io/#services</loc>
-    <lastmod>2026-05-05</lastmod>
+    <loc>https://jasa-dokumentasi-event-bandung.github.io/dokumentasi-event-bandung/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Support Pages -->
+  <url>
+    <loc>https://jasa-dokumentasi-event-bandung.github.io/fotografer-event-bandung/</loc>
+    <lastmod>2026-05-06</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://jasa-dokumentasi-event-bandung.github.io/#pricing</loc>
-    <lastmod>2026-05-05</lastmod>
+    <loc>https://jasa-dokumentasi-event-bandung.github.io/videografer-event-bandung/</loc>
+    <lastmod>2026-05-06</lastmod>
     <priority>0.8</priority>
   </url>
 
+  <!-- Artikel -->
   <url>
-    <loc>https://jasa-dokumentasi-event-bandung.github.io/#portfolio</loc>
-    <lastmod>2026-05-05</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://jasa-dokumentasi-event-bandung.github.io/#testimoni</loc>
-    <lastmod>2026-05-05</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://jasa-dokumentasi-event-bandung.github.io/#contact</loc>
-    <lastmod>2026-05-05</lastmod>
+    <loc>https://jasa-dokumentasi-event-bandung.github.io/dokumentasi-sebagai-strategi-visibilitas/</loc>
+    <lastmod>2026-05-06</lastmod>
     <priority>0.7</priority>
   </url>
 
