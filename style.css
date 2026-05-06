@@ -238,3 +238,16 @@ footer {
 .wa-float:hover {
   transform: scale(1.1);
 }
+
+.hero-logo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+
+  border-radius: 50%;        /* bikin bulat */
+  border: 4px solid #fff;    /* garis (list) */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* bayangan halus */
+
+  margin-bottom: 20px;
+}
+
