@@ -35,4 +35,11 @@
     <priority>0.7</priority>
   </url>
 
+   <!-- Artikel -->
+  <url>
+    <loc>https://jasa-dokumentasi-event-bandung.github.io/dokumentasi-perpisahan-sekolah-bandung/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
