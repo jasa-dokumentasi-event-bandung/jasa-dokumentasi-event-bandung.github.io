@@ -42,4 +42,11 @@
     <priority>0.7</priority>
   </url>
 
+   <!-- Artikel -->
+  <url>
+    <loc>https://jasa-dokumentasi-event-bandung.github.io/g-loop-visibility-advisory/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
